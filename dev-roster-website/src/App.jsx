@@ -21,6 +21,22 @@ function App() {
           <li>Test Developer Name</li>
           <li>Test Developer Name</li>
         </ul>
+        <h2>LGBTQ+ Senior Housing</h2>
+        <ul>
+          <li>Charles</li>
+          <li>Haijun</li>
+          <li>Phuong</li>
+          <li>Ash</li>
+          <li>Andrea</li>
+          <li>Andrés</li>
+          <li>Benson</li>
+          <li>Cliodhna</li>
+          <li>Dylan</li>
+          <li>Hailey</li>
+          <li>Harrison</li>
+          <li>Maggie</li>
+          <li>May</li>
+        </ul>
       </div>
     </>
   )
